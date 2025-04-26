@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Cabrera",
+  "license": "ISC",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
